@@ -1,6 +1,6 @@
 package com.tnsif.lesson3g;
 
-class Demo {
+public class Demo {
 	private Integer firstNumber;
 	private Integer secondNumber;
 	Demo()
