@@ -1,4 +1,3 @@
-
 package interfaces;
 
 public class Tiger implements Animal {
