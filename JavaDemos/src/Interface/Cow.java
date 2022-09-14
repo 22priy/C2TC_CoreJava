@@ -1,4 +1,4 @@
-package interfaces;
+package Interface;
 
 public class Cow implements Animal{
 
